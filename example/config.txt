@@ -1,0 +1,2 @@
+Prefix plugins/Accuracy/example/
+Plugin Accuracy inputfile GBM.rds outputfile output.png
